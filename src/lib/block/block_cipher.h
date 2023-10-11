@@ -9,6 +9,7 @@
 #define BOTAN_BLOCK_CIPHER_H_
 
 #include <botan/sym_algo.h>
+#include <botan/mem_ops.h>
 #include <memory>
 #include <string>
 #include <string_view>

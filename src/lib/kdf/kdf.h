@@ -11,6 +11,7 @@
 #include <botan/concepts.h>
 #include <botan/exceptn.h>
 #include <botan/secmem.h>
+#include <botan/mem_ops.h>
 #include <span>
 #include <string>
 #include <string_view>

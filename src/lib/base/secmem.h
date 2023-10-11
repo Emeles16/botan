@@ -8,7 +8,7 @@
 #ifndef BOTAN_SECURE_MEMORY_BUFFERS_H_
 #define BOTAN_SECURE_MEMORY_BUFFERS_H_
 
-#include <botan/mem_ops.h>  // IWYU pragma: export
+#include <botan/allocator.h>
 #include <botan/types.h>    // IWYU pragma: export
 #include <algorithm>
 #include <deque>

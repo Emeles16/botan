@@ -10,6 +10,7 @@
 #if defined(BOTAN_HAS_KECCAK_PERM)
 
    #include <botan/hex.h>
+   #include <botan/mem_ops.h>
    #include <botan/internal/keccak_helpers.h>
    #include <botan/internal/keccak_perm.h>
 

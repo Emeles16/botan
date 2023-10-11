@@ -10,6 +10,7 @@
 
 #include <botan/concepts.h>
 #include <botan/secmem.h>
+#include <botan/mem_ops.h>
 #include <span>
 #include <string_view>
 

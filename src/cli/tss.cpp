@@ -10,6 +10,7 @@
    #include <botan/hex.h>
    #include <botan/rng.h>
    #include <botan/tss.h>
+   #include <botan/mem_ops.h>
    #include <botan/internal/fmt.h>
    #include <fstream>
 #endif

@@ -12,6 +12,7 @@
 
 #include <botan/secmem.h>
 #include <string>
+#include <span>
 
 namespace Botan {
 
